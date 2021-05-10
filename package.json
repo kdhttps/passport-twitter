@@ -32,7 +32,7 @@
   "main": "./lib",
   "dependencies": {
     "passport-oauth1": "1.x.x",
-    "xtraverse": "0.1.x"
+    "xtraverse": "git+https://github.com/kdhttps/node-xtraverse.git"
   },
   "devDependencies": {
     "make-node": "0.4.6",
