@@ -32,12 +32,12 @@
   "main": "./lib",
   "dependencies": {
     "passport-oauth1": "1.x.x",
-    "xtraverse": "git+https://github.com/kdhttps/node-xtraverse.git"
+    "xtraverse": "git+https://github.com/GluuFederation/node-xtraverse.git"
   },
   "devDependencies": {
     "make-node": "0.4.6",
-    "mocha": "2.x.x",
-    "chai": "2.x.x",
+    "mocha": "9.0.2",
+    "chai": "4.3.4",
     "chai-passport-strategy": "1.x.x"
   },
   "engines": {

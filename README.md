@@ -1,5 +1,7 @@
 # passport-twitter
 
+> Note: Forked, due to Unmaintained and vulnerabilities in the passport-twitter dependency [node-xtraverse](https://github.com/jaredhanson/node-xtraverse) and fixed [Misinterpretation of malicious XML input](https://www.npmjs.com/advisories/1650) vulnerabilities.
+
 [Passport](http://passportjs.org/) strategy for authenticating with [Twitter](http://twitter.com/)
 using the OAuth 1.0a API.
 
