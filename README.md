@@ -11,16 +11,6 @@ unobtrusively integrated into any application or framework that supports
 [Connect](http://www.senchalabs.org/connect/)-style middleware, including
 [Express](http://expressjs.com/).
 
----
-
-<p align="center">
-  <sup>Advertisement</sup>
-  <br>
-  <a href="https://click.linksynergy.com/link?id=D*o7yui4/NM&offerid=507388.922484&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-nodejs-developer-course-2%2F&u1=nzQ4K5UpDje9RRkYGfU82wFPXFWOCHAv5M0gEu5tJJH">The Complete Node.js Developer Course</a><br>Learn Node. js by building real-world applications with Node, Express, MongoDB, Jest, and more!
-</p>
-
----
-
 [![npm](https://img.shields.io/npm/v/passport-twitter.svg)](https://www.npmjs.com/package/passport-twitter)
 [![build](https://img.shields.io/travis/jaredhanson/passport-twitter.svg)](https://travis-ci.org/jaredhanson/passport-twitter)
 [![coverage](https://img.shields.io/coveralls/jaredhanson/passport-twitter.svg)](https://coveralls.io/github/jaredhanson/passport-twitter)
@@ -29,7 +19,7 @@ unobtrusively integrated into any application or framework that supports
 ## Install
 
 ```bash
-$ npm install passport-twitter
+$ npm install https://github.com/GluuFederation/passport-twitter.git
 ```
 
 ## Usage
